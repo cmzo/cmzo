@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there i'm Matias 👋
+
+<img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
 
 <!--
 **cmzo/cmzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
