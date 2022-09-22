@@ -24,6 +24,7 @@
 - Directory Opus 
 - Listary
 - ♥ Vimium
+- Notion
 
 <!--- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
 
