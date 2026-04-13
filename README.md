@@ -61,6 +61,8 @@ public class Matias {
 - VSCode / Nvim
 - Obsidian
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmzo)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
 
 <!--
