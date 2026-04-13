@@ -48,9 +48,11 @@ public class Matias {
 
 ### 🚧 Currently building
 
-**A text-based RPG** — a course project that got out of hand (in a good way).  
-Turn-based combat, inventory system, character progression. Built with Python.  
-[→ cmzo/Primitivo](https://github.com/cmzo/Primitivo.git)
+```
+🎮 Primitivo ············· text-based RPG in Java
+📖 Status ················ work in progress (send help)
+🔗 github.com/cmzo/Primitivo
+```
 
 ---
 
