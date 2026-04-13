@@ -13,7 +13,7 @@
 
 ```
 
-<img align="right" alt="GIF" height="250px" src="https://raw.githubusercontent.com/cmzo/cmzo/main/assets/anime_eye.gif" />
+<img align="right" alt="GIF" height="200px" src="https://raw.githubusercontent.com/cmzo/cmzo/main/assets/anime_eye.gif" />
 
 ### Hey, I'm Matías 👋
 
@@ -26,7 +26,7 @@ Learning to build things that actually work — one bug at a time.
 
 ---
 
-### 🧬 Bio
+### 🧬 About me
 
 ```java
 public class Matias {
