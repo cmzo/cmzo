@@ -12,7 +12,7 @@
 
 ```
 
-![](https://i.pinimg.com/originals/85/df/5e/85df5e8f0fd316258a6ae98ec9b82ea8.gif)
+
 
 <!--
 ##### NOW
@@ -44,10 +44,13 @@ public class Matias {
 
 ```
 
+<img align="right" alt="GIF" height="300px" src="https://i.pinimg.com/originals/85/df/5e/85df5e8f0fd316258a6ae98ec9b82ea8.gif" />
+
 ### What's up?
 - 🏢 I'm currently working at Accenture
 - 💬 Ping me about **bokita**, **LOTR**, **Doctor Who**
 - 📫 Reach me at [cmzo@proton.me](mailto:cmzo@proton.me)
+
 
 <!--- 
 
@@ -61,7 +64,6 @@ public class Matias {
 - VSCode / Nvim
 - Obsidian
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmzo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
 
