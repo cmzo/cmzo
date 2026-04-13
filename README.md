@@ -26,14 +26,12 @@
 - ⚙️ I use daily: <img src="https://img.shields.io/badge/-HTML-FFCB42?logo=html5&logoColor=E34F26&style=flat&logoWidth=20" alt="HTML5"> <img src="https://img.shields.io/badge/-CSS-FFCB42?logo=css3&logoColor=1572B6&style=flat&logoWidth=20" alt="CSS"> <img src="https://img.shields.io/badge/-GIT-FFCB42?logo=git&logoColor=#F05032&style=flat&logoWidth=20" alt="GIT"> <img src="https://img.shields.io/badge/-NodeJS-FFCB42?logo=node.js&logoColor=339933&style=flat&logoWidth=20" alt="NodeJS"> <img src="https://img.shields.io/badge/-Bootstrap-FFCB42?logo=bootstrap&logoColor=7952B3&style=flat&logoWidth=20" alt="Bootstrap">
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **bokita**, **LOTR**, **Doctor Who**
-- 📫 How to reach me: [cmzo@proton.me](mailto:cmzo@proton.me)
-- 
+- 📫 Reach me at [cmzo@proton.me](mailto:cmzo@proton.me)
 
 #### Software that makes me happy
 
 - VSCode / Nvim
 - Obsidian
-- 
 
 <!--- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc… -->
 
