@@ -11,7 +11,7 @@
 ╚════════════════════════════════════════════════════════╝
 -->
 
-<img align="right" alt="GIF" height="250px" src="https://raw.githubusercontent.com/cmzo/cmzo/main/assets/anime-eye.gif" />
+<img align="right" alt="GIF" height="250px" src="https://raw.githubusercontent.com/cmzo/cmzo/main/assets/anime_eye.gif" />
 
 ### Hey, I'm Matías 👋
 
