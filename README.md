@@ -34,9 +34,7 @@ public class Matias {
     String[]  skills   = {"Python", "Java", "Linux", "Networking"};
     String[]  learning = {"AI/ML", "Software Development"};
 
-    String focus() {
-        return "Building things, breaking things, learning why";
-    }
+    String focus() {return "Building things, breaking things, learning why"};
 
    // 今度は今度。今は今。
 }
