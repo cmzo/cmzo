@@ -22,7 +22,7 @@ Learning to build things that actually work — one bug at a time.
 
 > *"People assume that time is a strict progression of cause to effect,*  
 > *but actually from a non-linear, non-subjective viewpoint —*  
-> *it's more like a big ball of wibbly-wobbly... code-y... stuff."*
+> *it's more like a big ball of wibbly-wobbly, timey wimey stuff."*
 
 ---
 
