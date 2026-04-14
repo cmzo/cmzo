@@ -38,9 +38,7 @@ public class Matias {
         return "Building things, breaking things, learning why";
     }
 
-    String goal() {
-        return "Becoming a Software Engineer";
-    }
+   // 今度は今度。今は今。
 }
 ```
 
